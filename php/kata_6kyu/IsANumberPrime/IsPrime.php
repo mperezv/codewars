@@ -7,7 +7,7 @@ function is_prime(int $n) :bool {
     $prime = false;
   }
 
-  while($i < $n && $prime){
+  while($i <= sqrt($n) && $prime){
 	  if($n % $i == 0){
 		  $prime = false;
 	  }
