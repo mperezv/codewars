@@ -20,6 +20,8 @@ Copy it, submit it, distribute it, enjoy it if you can. 💻 🔥
   * [Is a Number Prime?](https://github.com/mperezv/codewars/tree/main/php/kata_6kyu/IsANumberPrime)
 
 ### SQL
+* [7kyu](https://github.com/mperezv/codewars/tree/main/sql/7kyu)
+  * [Bit Length](https://github.com/mperezv/codewars/tree/main/sql/7kyu/Easy%20SQL:%20Bit%20Length)
 * [8kyu](https://github.com/mperezv/codewars/tree/main/sql/8kyu)
   * [Century From Year](https://github.com/mperezv/codewars/tree/main/sql/8kyu/Century%20From%20Year)
   * [Even Or Odd](https://github.com/mperezv/codewars/tree/main/sql/8kyu/Even%20or%20Odd)
