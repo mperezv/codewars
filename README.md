@@ -22,6 +22,7 @@ Copy it, submit it, distribute it, enjoy it if you can. 💻 🔥
 ### SQL
 * [7kyu](https://github.com/mperezv/codewars/tree/main/sql/7kyu)
   * [Bit Length](https://github.com/mperezv/codewars/tree/main/sql/7kyu/Easy%20SQL:%20Bit%20Length)
+  * [SQL with Sailor Moon](https://github.com/mperezv/codewars/tree/main/sql/7kyu/SQL%20with%20Sailor%20Moon:%20Thinking%20about%20JOINs...)
 * [8kyu](https://github.com/mperezv/codewars/tree/main/sql/8kyu)
   * [Century From Year](https://github.com/mperezv/codewars/tree/main/sql/8kyu/Century%20From%20Year)
   * [Even Or Odd](https://github.com/mperezv/codewars/tree/main/sql/8kyu/Even%20or%20Odd)
