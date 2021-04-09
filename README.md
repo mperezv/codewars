@@ -14,8 +14,6 @@ Copy it, submit it, distribute it, enjoy it if you can. 💻 🔥
 
 
 
-## Index
-
 ### PHP
 * [6kyu](https://github.com/mperezv/codewars/tree/main/php/kata_6kyu)
   * [Are They The Same?](https://github.com/mperezv/codewars/tree/main/php/kata_6kyu/Are%20they%20the%20same%3F)
