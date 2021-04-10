@@ -18,6 +18,7 @@ Copy it, submit it, distribute it, enjoy it if you can. 💻 🔥
 * [6kyu](https://github.com/mperezv/codewars/tree/main/php/kata_6kyu)
   * [Are They The Same?](https://github.com/mperezv/codewars/tree/main/php/kata_6kyu/Are%20they%20the%20same%3F)
   * [Is a Number Prime?](https://github.com/mperezv/codewars/tree/main/php/kata_6kyu/IsANumberPrime)
+  * [Bit Counting](https://github.com/mperezv/codewars/tree/main/php/kata_6kyu/Bit%20Counting)
 
 ### SQL
 * [7kyu](https://github.com/mperezv/codewars/tree/main/sql/7kyu)
