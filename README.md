@@ -30,3 +30,7 @@ Copy it, submit it, distribute it, enjoy it if you can. 💻 🔥
   * [Grasshopper](https://github.com/mperezv/codewars/tree/main/sql/8kyu/Grasshopper)
   * [On The Canadian Border](https://github.com/mperezv/codewars/tree/main/sql/8kyu/On%20the%20Canadian%20Border)
 
+### JS
+* [7kyu](https://github.com/mperezv/codewars/tree/main/javascript/7kyu)
+  * [List Filtering](https://github.com/mperezv/codewars/tree/main/javascript/7kyu/List%20Filtering)
+
