@@ -1,4 +1,6 @@
-# Codewars ![Last Commit](https://img.shields.io/github/last-commit/mperezv/codewars) ![Most Used Language](https://img.shields.io/github/languages/top/mperezv/codewars)
+# Codewars 
+
+![Last Commit](https://img.shields.io/github/last-commit/mperezv/codewars) ![Most Used Language](https://img.shields.io/github/languages/top/mperezv/codewars)
 
 Hello! 👋
 
