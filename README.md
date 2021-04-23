@@ -25,6 +25,8 @@ Copy it, submit it, distribute it, enjoy it if you can. 💻 🔥
 ### SQL
 * [5kyu](https://github.com/mperezv/codewars/tree/main/sql/5kyu)
   * [Relational division: Find all movies two actors cast in together](https://github.com/mperezv/codewars/tree/main/sql/5kyu/Relational%20division:%20Find%20all%20movies%20two%20actors%20cast%20in%20together)
+* [6kyu](https://github.com/mperezv/codewars/tree/main/sql/6kyu)
+  * [SQL Basics: Simple table totaling](https://github.com/mperezv/codewars/tree/main/sql/6kyu/SQL%20Basics:%20Simple%20table%20totaling)
 * [7kyu](https://github.com/mperezv/codewars/tree/main/sql/7kyu)
   * [Bit Length](https://github.com/mperezv/codewars/tree/main/sql/7kyu/Easy%20SQL:%20Bit%20Length)
   * [SQL with Sailor Moon](https://github.com/mperezv/codewars/tree/main/sql/7kyu/SQL%20with%20Sailor%20Moon:%20Thinking%20about%20JOINs...)
